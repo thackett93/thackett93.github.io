@@ -1,2 +1,2 @@
 # My portfolio
-<href = "https://github.com/thackett93/PCDE-Assignment-9.1">
+<href = "https://thackett93.github.io/PCDE-Assignment-9.1">
